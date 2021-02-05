@@ -1,6 +1,6 @@
 # Excel Challenge: Kickstart My Chart
 
-## Background
+## Description
 
 For this challenge, I will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
